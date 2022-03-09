@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         flomo助手
+// @name         🕊️flomo助手
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  memo变灰，用于防窥
