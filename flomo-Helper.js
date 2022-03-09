@@ -6,6 +6,7 @@
 // @author       mefengl
 // @match        https://flomoapp.com/mine
 // @icon         https://www.google.com/s2/favicons?domain=flomoapp.com
+// @license MIT
 // @grant        none
 // ==/UserScript==
 
